@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+}
+#main-con{
+    margin: 40px;
+    width: 99%;
+    height: 2000px;
+    position: absolute;
+    top: 20px;
+     /* border: 2px solid black; */
+
+  
+    
+}
+.con{
+    margin: 10px;
+    width: 20px;
+    height: 900px;
+    position: absolute;
+    top: 20px;
+    
+
+    /* border: 2px solid black; */
+
+     position: relative;
+}
+h1{
+    position: absolute;
+    bottom: 200px;
+}
+.con1,.con2{
+    margin: 10px;
+    width: 98%;
+    height: 500px;
+    
+}
+#main-con3{
+  display: inline-block;
+    margin: 10px;
+    width: 4%;
+    height: 450px;
+}
+#main-con1,#main-con4{
+    display: inline-block;
+    margin: 10px;
+    width: 44%;
+    height: 450px;
+}
+#main-con2{
+    display: inline-block;
+    margin: 0px;
+    width: 44%;
+    height: 450px;
+    
+}
+
+#p2{
+    width: 100%;
+    height: 450px;
+}
+#p3{
+    width: 100%;
+    height: 450px;
+}
+#con,p{
+    margin-top: 0px;
+    font-size: 10px;
+}
+#con1,b{
+    
+     font-size: 15px;
+color: grey;
+
+}
+b{
+    color: black;
+}
+pre{
+    font-size: 18px;
+    color: grey;
+}
+p{
+    font-size: 15px;
+}
+#p4{
+    color: darkcyan;
+}
+#cont{
+    width: 98%;
+
+}
+input{
+    width: 97%;
+    height: 40px;
+    
+}
+#button{
+    width: 60%;
+    height: 40px;
+}

@@ -1,0 +1,40 @@
+.Main{
+      /* width: 800px; 
+     height: 750px; 
+    border: 2px solid;    */
+      background-color: white;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 300px 1fr;
+    grid-template-rows: 160px 160px 70px 160px;
+     
+}
+.Header{  
+  
+  background-color: skyblue;
+grid-column-start:  1;
+grid-column-end: 3;
+
+
+    
+    
+}
+.sideBar{
+    background-color: seagreen;
+    grid-row: 2/4;
+    
+}
+.MainContainer{
+    background-color: yellow;
+}
+.extraconsequence{
+    background-color: violet;
+}
+.footer{
+
+    background-color: yellow;
+    grid-column-start:  1;
+grid-column-end: 3;
+
+    
+} 
